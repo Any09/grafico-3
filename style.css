@@ -12,10 +12,12 @@
 
 body {
     background-image: url(https://wallpapers.com/images/hd/africa-pictures-3aksy2zwmsg9bnin.jpg);
+
     color: var(--cor-principal);
     font-family: var(--fonte);
     height: 100vh;
     margin: 0;
+    background-size: 50%;
 }
 
 header {
